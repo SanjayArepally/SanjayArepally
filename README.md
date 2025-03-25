@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...Learning and applying my skill through  real time project's
 - 📫 How to reach me ...you can reach me out at sanjayarepally2554@gmail.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ..."yudo-teki shippai"
+- ⚡ Fun fact: ..."First Learn then Earn"
 
 <!---
 SanjayArepally/SanjayArepally is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
