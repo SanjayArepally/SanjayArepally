@@ -1,6 +1,6 @@
 👋 About Me
 
-I’m a Data & Automation Engineer with hands-on experience building reliable data pipelines, workflow automation, and scalable data platforms across cloud environments. I focus on designing systems that reduce manual effort, improve data reliability, and support analytics and machine learning use cases.
+I’m a Data & AI Engineer (Automation & Integration workflows) with hands-on experience building reliable data pipelines, workflow automation, and scalable data platforms across cloud environments. I focus on designing systems that reduce manual effort, improve data reliability, and support analytics and machine learning use cases.
 
 My work sits at the intersection of data engineering, automation, and cloud infrastructure — from ingestion and transformation to orchestration, monitoring, and optimization. I enjoy solving ambiguous data problems, improving system reliability, and building pipelines that downstream teams can trust.
 
@@ -68,9 +68,7 @@ Communicate clearly with technical and non-technical teams
 
 📫 Let’s Connect
 
-GitHub: (your GitHub username)
-
-LinkedIn: (optional)
+GitHub: Sanjay Arepally
 
 <!---
 SanjayArepally/SanjayArepally is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
